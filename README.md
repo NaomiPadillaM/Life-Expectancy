@@ -1,4 +1,4 @@
-# Life-Expectancy
+# Life Expectancy
 Clasificación por clusters de países según su  esperanza de vida con modelos de aprendizaje no supervisado
 
 Utilizando el dataset público [Life Expectancy Data.csv](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who) de Kaggle, en el Notebook se llevó a cabo la limpieza de los datos y se aplicaron los modelos de aprendizaje no supervisado *K-MEANS*, *Affinity Propagation*, *Spectral Clustering* y *DBSCAN* con el objetivo de lograr la mejor agrupación de países según sus similitudes con condiciones de **esperanza de vida**.
