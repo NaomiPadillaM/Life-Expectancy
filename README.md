@@ -7,5 +7,6 @@ En el reporte se encuentra todo el análisis colaborativo y la explicación de c
 
 <img src="/images/Kmeans_g.png" height=50% width=50% >
 
-<img src="/images/Kmeans_map.png" height=50% width=50% >
+<img src="/images/KMEANS_map.png" height=50% width=50% >
+
 [link del mapa interactivo](https://e6lifenosupervisado.netlify.app/)
