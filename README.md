@@ -4,7 +4,7 @@ Utilizando el dataset público [Life Expectancy Data.csv](https://www.kaggle.com
 
 En el reporte se encuentra todo el análisis colaborativo y la explicación de cada uno de los resultados obtenidos así como la comparativa de cada uno de los métodos aplicados. 
 
-![](https://github.com/NaomiPadillaM/Life-Expectancy/blob/main/images/Kmeans_g.png)
+![](/images/Kmeans_g.png)
 
 <iframe src="https://e6lifenosupervisado.netlify.app/" height="500" width="1000"></iframe>
 
