@@ -5,8 +5,10 @@ Utilizando el dataset público [Life Expectancy Data.csv](https://www.kaggle.com
 
 En el reporte se encuentra todo el análisis colaborativo y la explicación de cada uno de los resultados obtenidos así como la comparativa de cada uno de los métodos aplicados. 
 
-<img src="/images/Kmeans_g.png" height=50% width=50% >
+<img src="/images/Kmeans_g.png" height=70% width=70% >
 
-<img src="/images/KMEANS_map.png" height=50% width=50% >
+<iframe src="https://e6lifenosupervisado.netlify.app/" height="500" width="500"></iframe>
 
-[link del mapa interactivo](https://e6lifenosupervisado.netlify.app/)
+Puedes explorar este mapa en el[link](https://e6lifenosupervisado.netlify.app/)
+
+
