@@ -9,6 +9,6 @@ En el reporte se encuentra todo el análisis colaborativo y la explicación de c
 
 <iframe src="https://e6lifenosupervisado.netlify.app/" height="500" width="500"></iframe>
 
-Puedes explorar este mapa en el[link](https://e6lifenosupervisado.netlify.app/)
+Puedes explorar este mapa en el [link](https://e6lifenosupervisado.netlify.app/)
 
 
